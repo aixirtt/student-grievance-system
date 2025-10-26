@@ -1,0 +1,13 @@
+{
+  "name": "plm-grievance-system",
+  "private": true,
+  "scripts": {
+    "dev": "concurrently \"npm --prefix frontend run dev\" \"npm --prefix backend run dev\""
+  },
+  "devDependencies": {
+    "concurrently": "^8.0.0"
+  },
+  "dependencies": {
+    "typescript": "^5.9.3"
+  }
+}

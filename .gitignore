@@ -1,0 +1,13 @@
+# Node
+node_modules/
+**/node_modules/
+npm-debug.log*
+yarn-error.log
+.env
+frontend/.env
+backend/.env
+supabase/.env
+.DS_Store
+.vscode/
+dist/
+build/
